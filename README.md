@@ -61,7 +61,6 @@ Currently focused on improving infrastructure reliability, cloud automation, and
 - GitHub: [github.com/farai-munashe-wande](https://github.com/farai-munashe-wande)
 
 ---
-
 <!---
 farai-munashe-wande/farai-munashe-wande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
