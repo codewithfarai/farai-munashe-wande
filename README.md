@@ -58,7 +58,6 @@ Currently focused on improving infrastructure reliability, cloud automation, and
 
 ### 📫 Let’s Connect
 
-- LinkedIn: [linkedin.com/in/farai-wande](https://linkedin.com/in/farai-wande)  
 - GitHub: [github.com/farai-munashe-wande](https://github.com/farai-munashe-wande)
 
 ---
